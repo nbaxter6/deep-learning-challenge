@@ -35,3 +35,6 @@ After the data was separated into features and target, it was split into the tra
 To improve the performance of the model keras_tuner was installed and imported. Then tuner was used to find the best parameters of the model. 
 ### Summary
 The original model had a loss of 56% and an accuracy score of 72.9%. The karas tuner model had a loss of 56% and an accuracy score of 73.2%. I would not recommend using this model as the loss is too high and the accuracy could be further improved. 
+
+### References 
+IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/Links to an external site.
